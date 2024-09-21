@@ -8,14 +8,14 @@ This Motivational Quote Generator is a simple web application that displays rand
 3. Allows users to tweet the displayed quote directly to Twitter.
 
 # Technologies Used
-HTML: For structuring the page.
-CSS: For styling the webpage and making it visually appealing.
-JavaScript: To handle API requests, DOM manipulation, and user interactions.
+1. HTML: For structuring the page.
+2. CSS: For styling the webpage and making it visually appealing.
+3. JavaScript: To handle API requests, DOM manipulation, and user interactions.
 
 # Project Structure
-index.html: Contains the HTML structure for the quote generator.
-style.css: Handles the visual styling of the page, including the layout and background image.
-app.js: Contains the JavaScript logic for fetching quotes from the API and updating the DOM with new quotes.
+1. index.html: Contains the HTML structure for the quote generator.
+2. style.css: Handles the visual styling of the page, including the layout and background image.
+3. app.js: Contains the JavaScript logic for fetching quotes from the API and updating the DOM with new quotes.
 
 # How It Works
 1. API Call: The application fetches a random quote from the API (https://quotes-api-self.vercel.app/quote) using the Fetch API.
